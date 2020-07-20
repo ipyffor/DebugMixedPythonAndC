@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+**/build
+**/*.pdb
+**/*.pyd
+/.vscode
+hello.txt
